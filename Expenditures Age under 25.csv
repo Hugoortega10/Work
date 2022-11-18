@@ -1,0 +1,52 @@
+"Title:","Age of Reference Person: Under 25 from the Consumer Expenditures Database"
+"SubTitle:","USA"
+"Time:","1984 - 2021"
+"Unit of Measure:","#","#","#","#","#","#","#","#","#","#","#","#"
+"Citation:","United States Census Bureau, Bureau of Labor Statistics (2022-11-15). Consumer Expenditures: Age of Reference Person: Under 25 | Food | Alcoholic beverages | Apparel and services | Transportation | Healthcare | Entertainment | Personal care products and services | Reading | Education | Food | Alcoholic beverages | Apparel and services | Apparel, Women and girls | Vehicle maintenance and repairs | Vehicle insurance | Healthcare | Entertainment | Pets, toys, and playground equipment | Personal care products and services | Reading | Education, 1984 - 2021. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  002-008-023 doi:https://doi.org/10.6068/DP1848AF0646B10"
+"ColumnCount:",13
+"RowCount:",38
+
+"Time","Food, Food, $","Alcoholic beverages, Alcoholic beverages, $","Apparel and services, Apparel and services, $","Apparel and services, Apparel, Women and girls, $","Transportation, Vehicle maintenance and repairs, $","Transportation, Vehicle insurance, $","Healthcare, Healthcare, $","Entertainment, Entertainment, $","Entertainment, Pets, toys, and playground equipment, $","Personal care products and services, Personal care products and services, $","Reading, Reading, $","Education, Education, $"
+"1984",2086,263,937,332,341,206,371,653,88,160,62,570
+"1985",2140,336,912,365,253,215,427,711,105,189,64,530
+"1986",2145,296,833,269,306,262,363,687,87,181,67,598
+"1987",2204,310,887,327,331,323,338,745,89,169,68,616
+"1988",2455,312,1042,371,361,364,523,961,116,204,80,646
+"1989",2504,310,1137,474,307,363,348,925,133,256,79,665
+"1990",2761,318,1034,315,389,323,403,833,117,212,75,817
+"1991",2528,252,1201,416,381,375,360,906,139,239,72,871
+"1992",2621,356,1267,483,435,351,416,928,123,253,73,833
+"1993",2631,304,1198,332,368,364,349,910,146,228,72,907
+"1994",2793,247,1107,349,476,417,505,1018,163,234,65,812
+"1995",2690,277,1207,383,381,454,466,1083,157,243,71,667
+"1996",2865,258,1220,468,333,371,386,977,136,287,72,1068
+"1997",2838,253,1247,466,324,341,425,1051,188,292,64,1114
+"1998",3075,311,1134,412,357,383,445,974,133,262,64,1139
+"1999",3354,369,1192,422,402,408,551,1149,185,254,70,1277
+"2000",3213,392,1420,435,442,449,504,1091,173,345,57,1257
+"2001",3724,379,1197,395,358,449,530,1152,164,307,60,1511
+"2002",3621,394,1365,609,394,479,640,1212,193,329,57,1664
+"2003",3401,509,1117,352,352,504,546,950,139,326,53,1490
+"2004",3715,503,1371,587,400,535,654,1166,218,334,51,1821
+"2005",3933,401,1577,678,444,626,704,1393,184,337,49,1359
+"2006",3919,473,1464,554,400,548,706,1348,209,348,46,1259
+"2007",4141,461,1477,535,437,492,800,1448,243,337,51,1787
+"2008",4447,448,1351,439,412,427,682,1608,380,370,48,1691
+"2009",4179,344,1396,545,447,465,676,1233,295,360,42,1910
+"2010",4073,406,1559,670,480,498,775,1221,232,347,39,1906
+"2011",4354,418,1448,498,456,505,841,1345,333,324,45,2253
+"2012",4412,354,1246,421,486,471,1024,1257,261,360,44,1886
+"2013",4698,379,1513,516,491,616,943,1243,243,342,46,2055
+"2014",4423,303,1285,466,396,658,1103,1319,258,307,44,2721
+"2015",4890,250,1271,464,517,554,978,1354,256,406,38,2572
+"2016",4551,230,1216,345,516,458,1162,1454,316,387,43,3106
+"2017",4759,317,1315,466,471,502,1547,1488,363,473,42,2333
+"2018",4748,271,1128,438,471,647,1206,1409,384,475,35,2270
+"2019",5835,327,1407,486,671,1130,1510,1389,367,479,46,2993
+"2020",4526,225,1164,333,518,1144,1350,1266,439,468,51,2264
+"2021",5566,346,1488,497,630,1182,1367,1700,525,507,76,2096
+
+
+
+"Publisher:", "Bureau of Labor Statistics"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
